@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- google登录 -->
+    <string name="login_google_service_client_id">82944424731-821f5h1l7empdsjvcuv69d441632kshu.apps.googleusercontent.com</string>
+
+    <!-- facebook登录 -->
+    <string name="facebook_app_id">693381808030630</string>
+    <string name="fb_login_protocol_scheme">fb693381808030630</string>
+</resources>
